@@ -8,6 +8,11 @@ public class mainSolarSystem {
         Xros.moon="2";
         Xros.planets="2";
 
+        featureSun sunEx= new featureSun();
+        sunEx.color=";pink";
+        sunEx.size="-090";
+        sunEx.temp="90k";
+
 
     }
 }
