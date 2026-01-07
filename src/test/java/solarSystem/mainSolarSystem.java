@@ -14,5 +14,9 @@ public class mainSolarSystem {
         sunEx.temp="90k";
 
 
+        planet1 popye =new planet1();
+        popye.color="red";
+        popye.sizze="90";
+
     }
 }
