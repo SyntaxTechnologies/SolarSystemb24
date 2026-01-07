@@ -14,10 +14,16 @@ public class mainSolarSystem {
         sunEx.temp="90k";
 
 
+
         planet2 peterPan= new planet2();
         peterPan.size="4545454";
         peterPan.color="green";
 
+
+
+        planet1 popye =new planet1();
+        popye.color="red";
+        popye.sizze="90";
 
 
     }
